@@ -42,7 +42,10 @@ Caso tenha interesse em contribuir com o projeto, siga estas etapas:
 Caso tenha dúvidas ou sugestões, entre em contato pelo e-mail: [projeto.seguro@exemplo.com](mailto:projeto.seguro@exemplo.com)
 
 ## 📚 Produto Final
-<a href="https://www.canva.com/design/DAGV2YT5FbY/c08P66WTJ_hIm56oyQoeNg/watch?utm_content=DAGV2YT5FbY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h94741d3076">Acesse o vídeo</a>
+<a href="https://www.canva.com/design/DAGV2YT5FbY/c08P66WTJ_hIm56oyQoeNg/watch?utm_content=DAGV2YT5FbY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h94741d3076">Vídeo</a>
+
+
+<a href="https://github.com/LiliBR-tech/Criando-Impacto-Social-IA/blob/main/src/output/Rastreamento%20Inteligente.pdf">Projeto</a>
 
 ## 🏆 Bootcamps
 ![image](https://assets.dio.me/uz_v4dRt8edF45oQpxidQPnbM39OwLRoDMGIrWnR-Gk/f:webp/q:80/w:120/L3RyYWNrcy8wOTQ4NzYxMy1iNTRlLTQxYTctOTYwMC1iOWU1OTQ0OWFhMTMucG5n)   
